@@ -1,1 +1,1 @@
-# tool-format-json
+Chuyển đổi Netscape cookies sang JSON format
